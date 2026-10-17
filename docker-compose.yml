@@ -1,0 +1,15 @@
+version: "3.8"
+
+services:
+  semantic-search:
+    build: .
+    image: semantic-doc-search:latest
+    volumes:
+      - ./data:/app/data:ro
+      - ./index_store:/app/index_store
+      - ./queries.txt:/app/queries.txt:ro
+    environment:
+      - PYTHONUNBUFFERED=1
+    # Example: override command to index then search
+    # command: index --data-dir data --output-dir index_store
+    command: --help
