@@ -1,0 +1,9 @@
+Technology - Document 014
+
+5G networks use millimeter waves and beamforming to deliver ultra-low latency connectivity.
+
+Augmented reality overlays digital information onto the physical world via spatial computing.
+
+Autonomous vehicles fuse lidar, radar, and vision data for real-time path planning.
+
+This document discusses technology in depth. Readers interested in technology will find detailed explanations and examples.

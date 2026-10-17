@@ -1,0 +1,9 @@
+Nature - Document 019
+
+Photosynthesis converts carbon dioxide and sunlight into glucose via chlorophyll in chloroplasts.
+
+Migratory birds navigate using magnetoreception and celestial cues across continents.
+
+Reinforcement learning agents learn policies by maximizing cumulative reward through trial and error.
+
+This document discusses nature in depth. Readers interested in nature will find detailed explanations and examples.

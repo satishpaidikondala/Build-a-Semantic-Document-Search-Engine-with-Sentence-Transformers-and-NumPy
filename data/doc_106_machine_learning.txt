@@ -1,0 +1,11 @@
+Machine Learning - Document 106
+
+Value investing seeks securities trading below intrinsic value based on fundamental analysis.
+
+Gradient descent optimizes loss functions by iteratively updating parameters against the gradient.
+
+Transformer architectures use self-attention to model long-range dependencies in sequences.
+
+Regularization techniques such as dropout and weight decay help prevent overfitting.
+
+This document discusses machine learning in depth. Readers interested in machine learning will find detailed explanations and examples.

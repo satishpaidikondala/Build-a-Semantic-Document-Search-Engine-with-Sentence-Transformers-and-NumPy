@@ -1,0 +1,9 @@
+Machine Learning - Document 097
+
+Transformer architectures use self-attention to model long-range dependencies in sequences.
+
+Convolutional neural networks excel at image recognition through hierarchical feature extraction.
+
+Reinforcement learning agents learn policies by maximizing cumulative reward through trial and error.
+
+This document discusses machine learning in depth. Readers interested in machine learning will find detailed explanations and examples.

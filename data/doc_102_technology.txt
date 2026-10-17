@@ -1,0 +1,7 @@
+Technology - Document 102
+
+Quantum computing exploits superposition and entanglement to solve certain problems exponentially faster.
+
+Autonomous vehicles fuse lidar, radar, and vision data for real-time path planning.
+
+This document discusses technology in depth. Readers interested in technology will find detailed explanations and examples.
